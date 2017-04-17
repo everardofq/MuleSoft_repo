@@ -4,6 +4,6 @@ public class Cliente {
 
 	public String sayHi()
 	{
-		return "hello Mule ";
+		return "hello Mule jajaja  esto es una actualizacion";
 	}
 }
