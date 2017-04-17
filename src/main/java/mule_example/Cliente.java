@@ -6,5 +6,7 @@ public class Cliente {
 	{
 		//este comentario es nuevo
 		return "hello Mule te dominare";
+		
+		//esto se vera en la nueva rama child
 	}
 }
